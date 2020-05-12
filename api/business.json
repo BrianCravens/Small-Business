@@ -1,0 +1,57 @@
+{
+    "employees":[
+        {
+            "id": 1,
+            "name": "Jeff Ledford",
+            "departmentId": 1,
+            "computerId": 1
+        
+        },
+        {
+            "id": 2,
+            "name": "Derrek Foster",
+            "departmentId": 2,
+            "computerId": 2
+
+        },
+        {
+            "id": 3,
+            "name": "Paul Clark",
+            "departmentId": 3,
+            "computerId": 1
+
+        }
+    ],
+    "departments": [
+        {
+            "id": 1,
+            "name": "Administration"
+            
+        },
+        {
+            "id": 2,
+            "name": "Engineering"
+            
+        },
+        {
+            "id": 3,
+            "name": "Support"
+            
+        }
+    ],
+    "computers":[
+        {
+            "id": 1,
+            "model": "Lenovo X1 Yoga Gen 4"
+        },
+        {
+            "id": 2,
+            "model":"Lenovo X1 Extreme Gen 2"
+        },
+        {
+            "id": 3,
+            "model":"Lenovo X1 Carbon Gen 7"
+
+        }
+    ]
+}
